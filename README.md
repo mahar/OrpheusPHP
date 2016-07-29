@@ -1,2 +1,2 @@
 # OrpheusPHP
-A tiny MVC Framework.
+A tiny PHP MVC Framework.
